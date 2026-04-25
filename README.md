@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+If I'm dead here then perhaps I'm cracking my keyboard on my fulltime yob:
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+
 <!--
 **jiezhao2002/jiezhao2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
