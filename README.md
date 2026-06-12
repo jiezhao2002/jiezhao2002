@@ -5,7 +5,7 @@ If I'm dead here then perhaps I'm cracking my keyboard on my fulltime yob.
 **Archive ^^**: https://jiezhao2002.github.io/#
 
 
-### 🌽 Menu aka what I'm cooking with
+### 🌽 Menu aka what I cook with
 
 **ML & DE Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](#)
 
